@@ -43,3 +43,8 @@ async function converter() {
   
   // Atualiza o preço automaticamente ao carregar a página
   converter();
+
+ 
+
+
+  
